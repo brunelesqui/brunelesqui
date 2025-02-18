@@ -1,3 +1,5 @@
+## About me
+
 - 👋 Hi, I’m @brunelesqui
 - 👀 I’m interested in developing software
 - 🌱 I’m currently programming in different types of languages and I collaborate teaching and putting into practice topics for newbies who are starting in programming
